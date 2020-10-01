@@ -1,0 +1,23 @@
+h1, h2, h3{
+    padding:25px;
+    text-align: center;
+}
+h2{
+    
+}
+
+p{
+    padding: 25px 5px;
+}
+#D_Rose{
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+    box-shadow: 2px 5px rgba(0, 0, 0, 0.212)
+
+    
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f8f8ff;
+}
